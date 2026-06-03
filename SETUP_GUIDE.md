@@ -1,4 +1,4 @@
-# 🚀 Ghala's Study Schedule — Setup Guide
+# Ghala's Study Schedule — Setup Guide
 **Read this fully before starting. It takes about 15–20 minutes total.**
 
 ---
